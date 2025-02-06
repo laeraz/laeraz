@@ -21,3 +21,4 @@
 
 📬 Connect with Me
 - You can reach me via: [Discord](https://discord.com/users/1219311296974159892)
+- Or with the username laerami

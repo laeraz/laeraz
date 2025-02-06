@@ -1,5 +1,5 @@
 👋 Introduction
-- Welcome to my GitHub! I'm dedicated software developer (trust)
+- Welcome to my GitHub! I'm a dedicated software developer (trust)
 
 🌟 Stuff that I'm working on
 - Current Projects:

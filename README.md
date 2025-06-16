@@ -1,24 +1,8 @@
-👋 Introduction
-- Welcome to my GitHub! I'm a dedicated software developer (trust)
+languages i know
+- c# python lua 
 
-🌟 Stuff that I'm working on
-- Current Projects:
+languages im currenty learning
+- cpp rust js
 
-  - midnight: An In-development Roblox Script Hub made especially for ROLVe games but supports other games too.
-  - ventures.lua: Another Roblox Script Hub that I'm a developer for which has an In-Development executor too.
-
-- Languages:
-  - Programming Languages: Lua, C#
-
-- Languages I'm currently learning:
-  - Programming Languages: C++, Python, JS
-
-🌱 Areas of Exploration
-- Currently expanding my knowledge in:
-  - Memory maniuplation
-  - DLL injection
-  - Game hacking
-
-📬 Connect with Me
-- You can reach me via: [Discord](https://discord.com/users/1219311296974159892)
-- Or with the username laerami
+you may know me from
+- midnight, ventures (v3n), starfall, exware, solaris

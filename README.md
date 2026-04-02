@@ -1,8 +1,24 @@
-languages i know
-- c# python lua 
+i am the definition of a paster.
 
-languages im currenty learning
-- cpp rust js
+Languages I know:
+- LuaU
+- Python
+- JavaScript
 
-you may know me from
-- midnight, ventures (v3n), starfall, exware, solaris
+Languages I'm still learning:
+- C++
+- C#
+
+I suck at everything related to frontend 💔
+I usually code roblox scripts and sometimes external cheats for games that has no anti cheats or just has a very bad one.
+
+You may know me from some of my old projects such as:
+- midnight.cc (very bad arsenal and counter blox script)
+- bloxforge (didnt even release)
+
+or projects i've worked on:
+- ventures.lua
+- exware.cc
+- solaris.lol
+
+I'm currently working on (spritehack)[https://discord.gg/kfGdwxP2Wm] which is a free bloxstrike script.

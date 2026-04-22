@@ -20,5 +20,3 @@ or projects i've worked on:
 - ventures.lua
 - exware.cc
 - solaris.lol
-
-I'm currently working on [spritehack](https://discord.gg/kfGdwxP2Wm) which is a free bloxstrike script.
